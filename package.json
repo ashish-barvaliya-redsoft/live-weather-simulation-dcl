@@ -15,5 +15,8 @@
   "devDependencies": {
     "@dcl/eslint-config": "^1.0.1",
     "decentraland-ecs": "latest"
+  },
+  "dependencies": {
+    "decentraland": "^3.12.3"
   }
 }
